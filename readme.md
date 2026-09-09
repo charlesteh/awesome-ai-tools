@@ -118,6 +118,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 ## SEO/Marketing Tools 
 - [AltTextGeneratorAI](https://alttextgeneratorai.com/) - Enhance image SEO with AI
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads, connecting live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin with 9 SEO and Google Ads skills for audits, schema markup, bid updates, and CMS publishing
 - [Uptrends.ai](https://www.uptrends.ai/) - Never miss market-moving news again
 
 ## Utilities
