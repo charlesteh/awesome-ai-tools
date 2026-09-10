@@ -76,6 +76,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [XPen](https://xpen.ai/) - Streamline your Twitter publishing
 - [ChatFAI](https://chatfai.com/) - Chat with your favorite fictional characters
 - [TweetDetective](https://tweetdetective.com/) - Detect AI-generated text on Twitter
+- [SocialEcho](https://www.socialecho.net/) - Manage AI-assisted publishing, engagement, listening, and analytics across social networks
 
 ## Design Tools
 - [IconKit](https://iconkit.ai/) - Create stunning AI-generated icons
