@@ -63,6 +63,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 
 ## Resume/Job Assistance
 - [ResumeBoostAI](https://resumeboostai.com/) - Instantly craft professional resumes with AI
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anon, 10/day free account) + AI resume builder; State of ATS 2026 (738 employers, Workday 37.9%)
 - [Visa Bot](https://www.visabot.io/) - Practice Visa Interviews with AI
 - [Interviews Prep](https://www.interviewsprep.net/) - Personalized Mock Interviews with AI
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
