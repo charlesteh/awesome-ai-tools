@@ -79,6 +79,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [ChatFAI](https://chatfai.com/) - Chat with your favorite fictional characters
 - [TweetDetective](https://tweetdetective.com/) - Detect AI-generated text on Twitter
 - [SocialEcho](https://www.socialecho.net/) - Manage AI-assisted publishing, engagement, listening, and analytics across social networks
+- [ThreadFox](https://threadfox.vip) - Reddit outreach for Claude Code and Codex: reads each subreddit's rules, drafts posts and replies you approve, posts from your own Chrome and rechecks each post. $49 one-time, or done-for-you campaigns.
 
 ## Design Tools
 - [IconKit](https://iconkit.ai/) - Create stunning AI-generated icons
