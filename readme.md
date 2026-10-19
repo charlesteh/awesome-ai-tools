@@ -107,6 +107,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Receiptor AI](https://receiptor.ai/) - Automate receipt and invoice extraction
 - [Kastro](https://kastro.chat/) - Allocate 20% of your energy to handle 80% of your support
 - [Loman AI](https://loman.ai/) - 24/7 AI Sales and Support Agent
+- [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research
 
 ## Property/Real Estate
 - [Property Listings AI](https://propertylistingsai.com/) - Create stunning property listings in seconds with AI
