@@ -16,6 +16,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [TL;DR AI](https://tldrai.com/) - Summarize any text effortlessly  
 - [Best Man Pro](https://www.bestmanpro.com/) - Craft heartfelt speeches in minutes
 - [Compose Quickly](https://composequickly.com/) - Effortless AI-driven article creation with CQ
+- [ImagineYourBook](https://www.imagineyourbook.com/) - Plan and draft whole books chapter by chapter, with series story bibles and Word/EPUB export
 
 ## Visual AI (Image/Video Generation, Editing)
 - [ArtiverseHub](https://artiversehub.ai/) - Turn text into dynamic visuals
