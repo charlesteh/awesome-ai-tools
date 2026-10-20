@@ -70,6 +70,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Visa Bot](https://www.visabot.io/) - Practice Visa Interviews with AI
 - [Interviews Prep](https://www.interviewsprep.net/) - Personalized Mock Interviews with AI
 - [Interviews Chat](https://www.interviews.chat/) - Your Personal Interview Prep & Copilot
+- [NeverApply](https://neverapply.co) - AI job-search agent that matches you to jobs, tailors your resume for each one, and applies with your approval. Free plan available.
 - [Letterfy](https://letterfy.co/) - AI Cover Letter Generator
 - [CVFormatter](https://cvformatter.co/) - Streamline resume formatting effortlessly for headhunters  
 
