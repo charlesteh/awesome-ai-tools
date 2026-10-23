@@ -19,6 +19,8 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plan and draft whole books chapter by chapter, with series story bibles and Word/EPUB export
 
 ## Visual AI (Image/Video Generation, Editing)
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery + multi-model image/video studio with prompt library
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video generator; free trial; not affiliated with xAI/X
 - [ArtiverseHub](https://artiversehub.ai/) - Turn text into dynamic visuals
 - [Blimey Create](https://blimeycreate.com/) - Create AI images by building 3D scenes
 - [DeepFaceSwap](https://deepfaceswap.ai/) - Advanced face swapping and avatar creation
@@ -83,6 +85,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [SocialEcho](https://www.socialecho.net/) - Manage AI-assisted publishing, engagement, listening, and analytics across social networks
 
 ## Design Tools
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer; core editing free, optional AI
 - [IconKit](https://iconkit.ai/) - Create stunning AI-generated icons
 - [LogoAI](https://www.logoai.com/text/5/) - Smart text logo design generation
 - [Fontjoy](https://fontjoy.com/) - Generate font pairings easily
