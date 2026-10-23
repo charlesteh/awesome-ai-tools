@@ -71,6 +71,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Schoolhack.ai](https://www.schoolhack.ai/) - Revolutionizing AI-driven learning globally
 - [HomeworkAI](https://www.homeworkai.com.br/) - Streamline language teaching effortlessly
 - [StudyArena](https://studyarena.com) - Compare three AI answers to a study question for free, then vote and reveal the models
+- [SummarizAI](https://summarizai.ink) - Summaries, chapters, chat and flashcards for YouTube lectures, right on the watch page
 
 ## Resume/Job Assistance
 - [ResumeBoostAI](https://resumeboostai.com/) - Instantly craft professional resumes with AI
