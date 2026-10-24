@@ -19,6 +19,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plan and draft whole books chapter by chapter, with series story bibles and Word/EPUB export
 
 ## Visual AI (Image/Video Generation, Editing)
+- [artgen](https://artgen.net/en/tools/image-to-pixel-art) - AI art + photo to pixel art, ASCII & risograph
 - [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - One photo → 13s widescreen solo AI dance; paid from $7.99; unofficial
 - [A2O LITE NEON AI Dance](https://a2oliteai.org) - Two photos → 15s neon duo AI dance with soundtrack; paid from $7.99
 - [dime dime baby ai](https://dimedimebabyai.dev) - One photo → short 9:16 AI dance with music; paid from $7.99
