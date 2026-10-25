@@ -136,6 +136,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [ModelRush](https://modelrush.ai/) - Hosted APIs for text, image, video, and voice models, with prepaid usage credits
 - [Txt2SQL](https://txt2sql.com/) - Generate SQL queries with AI
 - [WrapFast](https://wrapfa.st/) - Launch AI Wrappers or any iOS apps quickly with boilerplate code
+- [deed.page](https://deed.page) - Hosting for AI coding agents: an agent publishes the HTML it built with one HTTP PUT or the remote MCP server and gets back a public HTTPS link
 
 ## SEO/Marketing Tools 
 - [AltTextGeneratorAI](https://alttextgeneratorai.com/) - Enhance image SEO with AI
