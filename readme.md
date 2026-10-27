@@ -102,6 +102,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [3D AI Studio](https://3daistudio.com/) - Generate custom 3D models effortlessly
 - [Muse Pro](https://musepro.app/) - Elevate creativity with AI drawing tools
 - [Simplified AI Font Generator](https://simplified.com/ai-font-generator/) - Create content with unique, eye-catching fonts
+- [APPLORE](https://applore.app/ai-app-icon-generator) - Generate app icons with AI using 18,000+ real App Store / Google Play icons as references
 
 ## Audio/Podcast Tools
 - [Jetscribe.ai](https://jetscribe.ai/) - Transform audio to text instantly
