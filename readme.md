@@ -20,6 +20,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 
 ## Visual AI (Image/Video Generation, Editing)
 - [artgen](https://artgen.net/en/tools/image-to-pixel-art) - AI art + photo to pixel art, ASCII & risograph
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - One photo → 13s widescreen solo AI dance; paid from $7.99; unofficial
 - [A2O LITE NEON AI Dance](https://a2oliteai.org) - Two photos → 15s neon duo AI dance with soundtrack; paid from $7.99
 - [dime dime baby ai](https://dimedimebabyai.dev) - One photo → short 9:16 AI dance with music; paid from $7.99
