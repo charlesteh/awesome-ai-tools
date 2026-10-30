@@ -123,6 +123,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Kastro](https://kastro.chat/) - Allocate 20% of your energy to handle 80% of your support
 - [Loman AI](https://loman.ai/) - 24/7 AI Sales and Support Agent
 - [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research
+- [FindAIforWork](https://findaiforwork.com) - Discover AI tools by work scenario, with read-only MCP search and comparison
 
 ## Property/Real Estate
 - [Property Listings AI](https://propertylistingsai.com/) - Create stunning property listings in seconds with AI
