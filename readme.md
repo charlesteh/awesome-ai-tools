@@ -33,6 +33,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Blimey Create](https://blimeycreate.com/) - Create AI images by building 3D scenes
 - [DeepFaceSwap](https://deepfaceswap.ai/) - Advanced face swapping and avatar creation
 - [LiveFaceSwap AI](https://livefaceswap.ai/) - Apply an authorized portrait reference to live webcam video with browser preview.
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Lens Louse AI](https://lenslouse.com/) - Upload selfie - Generate photos without a camera
 - [StoryTok](https://storytok.ai/) - Generate viral tiktok stories videos easily
 - [Portrait To Go](https://portraittogo.com/) - Turn selfies into business portraits
