@@ -135,6 +135,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Calligrapher.ai](https://www.calligrapher.ai/) - Generate realistic computer handwriting
 
 ## Development Tools
+- [agent-qa](https://vostride.com) - Natural-language web and mobile QA through CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable evidence.
 - [System One API](https://system-one.dev/en/api) - Open AI API gateway — one key, many models (SDK stars≈2, honest)
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree
 - [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent running 24/7 for creator rewards ($SGROK); site https://lmajster.github.io/sgrok/ ; Bags https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
