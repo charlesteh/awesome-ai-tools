@@ -129,6 +129,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 ## Property/Real Estate
 - [Property Listings AI](https://propertylistingsai.com/) - Create stunning property listings in seconds with AI
 - [NewRoom](https://newroom.io/) - AI Home Design with Amazon Furniture
+- [EmptyRoom AI](https://emptyroomai.com) - AI virtual staging for listing photos at $4 per room with free restages
 
 ## Music/Audio
 - [SongSens.ai](https://songsens.ai/) - Global Beats, Local Lyrics
