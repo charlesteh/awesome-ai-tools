@@ -102,7 +102,6 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Fontjoy](https://fontjoy.com/) - Generate font pairings easily
 - [WebsiteColorsAI](https://websitecolorsai.com/) - Instantly capture website colors with AI
 - [NewRoom](https://newroom.io/) - AI Home Design with Amazon Furniture
-- [EmptyRoom AI](https://emptyroomai.com) - AI virtual staging for listing photos at $4 per room with free restages
 - [3D AI Studio](https://3daistudio.com/) - Generate custom 3D models effortlessly
 - [Muse Pro](https://musepro.app/) - Elevate creativity with AI drawing tools
 - [Simplified AI Font Generator](https://simplified.com/ai-font-generator/) - Create content with unique, eye-catching fonts
