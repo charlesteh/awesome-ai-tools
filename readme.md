@@ -49,6 +49,8 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Supermeme.ai](https://supermeme.ai/) - Generate memes using AI effortlessly
 - [PhotoRush](https://photorush.io/) - Generate product photos in minutes
 - [GPT Image 2](https://gptimage2.asia/) - Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content
+- [Cyanvid](https://cyanvid.com/?utm_source=github-charlesteh-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images with credit quotes.
+- [Barz Studio](https://barzvideo.com/?utm_source=github-charlesteh-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker (bring your own track).
 
 ## Personal/Productivity
 - [Glosa](https://glosa.app/) - Learn Languages Easily
