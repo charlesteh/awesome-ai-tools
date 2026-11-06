@@ -49,6 +49,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Supermeme.ai](https://supermeme.ai/) - Generate memes using AI effortlessly
 - [PhotoRush](https://photorush.io/) - Generate product photos in minutes
 - [GPT Image 2](https://gptimage2.asia/) - Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content
+- [Vidney](https://vidney.ai/): Browser workspace for text and photo based video generation, pet effects and family photo editing.
 
 ## Personal/Productivity
 - [Glosa](https://glosa.app/) - Learn Languages Easily
