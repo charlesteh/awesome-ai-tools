@@ -52,6 +52,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [GPT Image 2](https://gptimage2.asia/) - Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content
 - [Vidney](https://vidney.ai/) - Browser workspace for text and photo based video generation, pet effects and family photo editing.
 - [Cyanvid](https://cyanvid.com/?utm_source=github-charlesteh-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images with credit quotes.
+- [Barz Studio](https://barzvideo.com/?utm_source=github-charlesteh-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker (bring your own track).
 - [EasyRap](https://easyrapvideo.com/) - One or two photos to a 5, 10 or 15-second rap music video; paid credits, no free rendered trial.
 
 ## Personal/Productivity
@@ -136,7 +137,6 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research
 - [FindAIforWork](https://findaiforwork.com) - Discover AI tools by work scenario, with read-only MCP search and comparison
 - [DisconfirmAI](https://disconfirmai.com/en) - AI investment research platform that looks for disconfirming evidence before you gain conviction
-
 - [EarlyLore](https://earlylore.com/) - Validate product ideas against real competitors, demand, and entry angles
 
 ## Property/Real Estate
