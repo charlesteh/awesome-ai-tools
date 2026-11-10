@@ -171,6 +171,8 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Txt2SQL](https://txt2sql.com/) - Generate SQL queries with AI
 - [WrapFast](https://wrapfa.st/) - Launch AI Wrappers or any iOS apps quickly with boilerplate code
 - [deed.page](https://deed.page) - Hosting for AI coding agents: an agent publishes the HTML it built with one HTTP PUT or the remote MCP server and gets back a public HTTPS link
+- [Imagera Code](https://imagera.ai/code) - Terminal coding agent with 276 coding models and one weekly usage limit instead of 3-hour lockouts; MIT CLI, paid plans
+- [Imagera LLM API](https://imagera.ai/llm-api) - One OpenAI-compatible endpoint for 320+ models from 48 labs, billed per token from a prepaid balance
 
 ## SEO/Marketing Tools 
 - [AltTextGeneratorAI](https://alttextgeneratorai.com/) - Enhance image SEO with AI
