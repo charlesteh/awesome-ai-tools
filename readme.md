@@ -63,6 +63,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Deep Swap AI](https://deepswapai.io/ai-face-swap-video) - Browser face swap for photos and videos, up to six faces; free tries, HD/4K on paid tiers
 - [GStory Image to Video](https://www.gstory.ai/image-to-video-ai) - Turn a single photo into a short AI video clip with an optional prompt; free tier, HD on paid plans
 - [FaceSwap.Free](https://faceswap.free/) - Free browser face swap for photos and short GIFs with four AI models and no sign-up; results carry a small semi-transparent mark, and video is not supported online.
+- [Image26](https://gptimages26.com/) - Independent GPT Image 2.6 generator: prompt to still image, ~9-frame GIF or SVG logo; Flare (fast drafts) and Sunburst (consistent edits) modes; paid plans from $9.9/mo; not affiliated with OpenAI.
 
 ## Personal/Productivity
 - [Glosa](https://glosa.app/) - Learn Languages Easily
