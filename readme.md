@@ -28,6 +28,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Two portraits → 13s 480p studio dance clip; independent, paid, unofficial
 - [Bad Times AI](https://badtimesai.dev) - Photo → AI dance effect video; independent, paid from $7.99, unofficial
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Photos → meet-in-the-crowd video effect; independent, paid from $7.99, unofficial
+- [Imagera](https://imagera.ai/) - Image, video, voice and music studio that runs many models side by side; Character IDs keep a face or product the same across shots; paid
 - [PromptImage](https://promptimage.cloud) - Free AI image gallery + multi-model image/video studio with prompt library
 - [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video generator; free trial; not affiliated with xAI/X
 - [ArtiverseHub](https://artiversehub.ai/) - Turn text into dynamic visuals
