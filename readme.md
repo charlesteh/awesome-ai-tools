@@ -60,6 +60,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Bulin 47 AI](https://bulin47videoai.app/) - One front-facing photo into the viral Bulin 47 freestyle template clip with audio; portrait or landscape MP4; paid one-time packs from $9.90, no subscription.
 - [Hotel Lobby AI Trend](https://hotellobbyaitrend.com/) - Two photos in, one orange-booth AI duo video with sound out; 9:16 or 16:9 MP4; paid packs from $4.99, no subscription.
 - [Image2GPT](https://images2gpt.com/) - Independent AI image generator and editor with inpainting, outpainting and style blend; watermark-free exports, free credits to try.
+- [Seedream 5.5](https://seedream55.io/) - Browser-based AI image generation studio with batch output and a credit-based plan.
 - [AI Image to Video](https://aiimagetovideo.pro) - Animate a still image into a short HD clip, plus text-to-video and reference-to-video modes; free plan with credits
 - [Deep Swap AI](https://deepswapai.io/ai-face-swap-video) - Browser face swap for photos and videos, up to six faces; free tries, HD/4K on paid tiers
 - [GStory Image to Video](https://www.gstory.ai/image-to-video-ai) - Turn a single photo into a short AI video clip with an optional prompt; free tier, HD on paid plans
