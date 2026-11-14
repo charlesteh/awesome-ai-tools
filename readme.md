@@ -68,6 +68,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Image26](https://gptimages26.com/) - Independent GPT Image 2.6 generator: prompt to still image, ~9-frame GIF or SVG logo; Flare (fast drafts) and Sunburst (consistent edits) modes; paid plans from $9.9/mo; not affiliated with OpenAI.
 
 ## Personal/Productivity
+- [Novastart](https://novastart.com/) - Infinite canvas workspace for apps, shared canvases, and AI agents; free plan available.
 - [Glosa](https://glosa.app/) - Learn Languages Easily
 - [inbox.dog](https://inbox.dog/) - Streamlining email with AI automation
 - [ORANO](https://oranoai.com/) - Turns saved Reels, TikToks, YouTube videos and articles into searchable summaries and step-by-step plans. iOS, Android and web. Freemium.
