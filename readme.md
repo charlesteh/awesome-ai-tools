@@ -81,7 +81,6 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [PlaceCall](https://voygr.tech/placecall/) - An AI agent that phones US businesses for you to book, ask or get a quote, then reports back with the outcome and transcript
 - [Meetini](https://meetini.net/) - Meeting and interview assistant for Apple Silicon Macs with local captions, transcripts, meeting notes, and metered AI assistance (paid).
 - [Cloud Alter Ego](https://cloudalterego.cafeboon.com) - Remote MCP connector that gives every AI chat your rules, profile and work history, stored as plain Markdown in your own cloud storage
-- [Sammi: AI Girlfriend](https://sammiai.app/) - Android AI companion for fictional character text chat, voice interaction, customization and creative roleplay.
 
 ## Marketing/Branding  
 - [Shakespeare](https://www.shakespeare.ai/) - Revolutionizing marketing with AI precision
