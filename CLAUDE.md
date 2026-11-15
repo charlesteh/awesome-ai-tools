@@ -11,5 +11,5 @@ When the maintainer says just "validate" or "VALIDATE", review every open PR **a
 2. **Accept:**
    - PRs: approve, then squash-merge. If it has a merge conflict or a small formatting problem, add the line yourself through a PR from the working branch, merge that, and close the original PR with a comment linking to it.
    - Issues: add the tool to the right section (use the submitter's suggested line when given), merge through a PR whose body says `closes #N`, and confirm the issues closed.
-3. **Reject** (not an AI tool, duplicate, spam, broken/unsafe link, or an AI girlfriend/boyfriend/companion or dating-style roleplay app): leave a short comment saying why, then close it. PRs get a REQUEST_CHANGES review before closing.
+3. **Reject** (not an AI tool, duplicate, spam, broken/unsafe link, an AI girlfriend/boyfriend/companion or dating-style roleplay app, or anything NSFW: adult, sexual, nude/undress or explicit content): leave a short comment saying why, then close it. PRs get a REQUEST_CHANGES review before closing.
 4. **Report back** with a table: number, tool, verdict, and reason.
