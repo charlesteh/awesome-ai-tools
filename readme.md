@@ -131,7 +131,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Muse Pro](https://musepro.app/) - Elevate creativity with AI drawing tools
 - [Simplified AI Font Generator](https://simplified.com/ai-font-generator/) - Create content with unique, eye-catching fonts
 - [APPLORE](https://applore.app/ai-app-icon-generator) - Generate app icons with AI using 18,000+ real App Store / Google Play icons as references
-- [AppScreen](https://appscreen.pro/) - Free browser editor for App Store and Google Play screenshots with device frames; AI agents can edit it over MCP (Pro)
+- [AppScreen](https://appscreen.pro/) - Free in-browser maker for App Store and Google Play screenshots: phone frames, captions and backgrounds on one canvas, exported as store-size PNGs
 - [EasySociable](https://easysociable.com/) - Agent skill that turns a prompt into a branded carousel for TikTok, Instagram and LinkedIn.
 
 ## Audio/Podcast Tools
