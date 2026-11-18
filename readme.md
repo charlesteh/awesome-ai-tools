@@ -119,6 +119,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [ChatFAI](https://chatfai.com/) - Chat with your favorite fictional characters
 - [TweetDetective](https://tweetdetective.com/) - Detect AI-generated text on Twitter
 - [SocialEcho](https://www.socialecho.net/) - Manage AI-assisted publishing, engagement, listening, and analytics across social networks
+- [Wavegrain](https://wavegrain.com/?utm_source=charlesteh-awesome-ai-tools) - Write and design TikTok slideshows and Instagram carousels from a brand's own photos, then schedule and post them
 
 ## Design Tools
 - [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer; core editing free, optional AI
