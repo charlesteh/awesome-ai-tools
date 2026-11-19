@@ -48,7 +48,6 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [investinvideos.com](https://investinvideos.com/) - Generate TikTok videos on auto-pilot
 - [Artguru AI Avatar Generator](https://www.artguru.ai/ai-avatar-generator/) - Create Your Own Unique AI Avatar
 - [GetAvatars.ai](https://www.getavatars.ai/) - Turn selfies into professional photos
-- [SoulGen](https://www.soulgen.net/) - Create art from text in seconds
 - [Supermeme.ai](https://supermeme.ai/) - Generate memes using AI effortlessly
 - [PhotoRush](https://photorush.io/) - Generate product photos in minutes
 - [GPT Image 2](https://gptimage2.asia/) - Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content
