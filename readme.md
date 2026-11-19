@@ -156,6 +156,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [FindAIforWork](https://findaiforwork.com) - Discover AI tools by work scenario, with read-only MCP search and comparison
 - [DisconfirmAI](https://disconfirmai.com/en) - AI investment research platform that looks for disconfirming evidence before you gain conviction
 - [EarlyLore](https://earlylore.com/) - Validate product ideas against real competitors, demand, and entry angles
+- [Frank AI Researcher](https://www.hifrank.ai/) - AI-moderated voice interviews with your own customers; share a link or website widget and read the transcripts.
 
 ## Property/Real Estate
 - [Property Listings AI](https://propertylistingsai.com/) - Create stunning property listings in seconds with AI
