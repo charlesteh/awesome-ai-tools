@@ -18,6 +18,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Compose Quickly](https://composequickly.com/) - Effortless AI-driven article creation with CQ
 - [ImagineYourBook](https://www.imagineyourbook.com/) - Plan and draft whole books chapter by chapter, with series story bibles and Word/EPUB export
 - [Prompt Generator](https://trypromptgenerator.com/) - Writes prompts in the syntax of the AI tool you pick (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more); 10 free prompts a day without an account
+- [Coda One](https://www.codaone.ai/) - Free AI detector with no signup or daily limit, plus an AI humanizer, rewriter and grammar checker.
 
 ## Visual AI (Image/Video Generation, Editing)
 - [ReelAI](https://tryreelai.com/) - Create short AI videos from photos using preset effects; paid.
