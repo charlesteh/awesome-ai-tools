@@ -162,6 +162,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [EarlyLore](https://earlylore.com/) - Validate product ideas against real competitors, demand, and entry angles
 - [Frank AI Researcher](https://www.hifrank.ai/) - AI-moderated voice interviews with your own customers; share a link or website widget and read the transcripts.
 - [QuestionPunk](https://www.questionpunk.com/) - Surveys and AI-moderated voice or chat interviews that ask follow-up questions, with reports and cross-tabs
+- [Genaya](https://www.genaya.com/) - AI receptionist for calls, texts and chats, plus scheduling, CRM, estimates, invoices and payments in one app for service businesses
 
 ## Property/Real Estate
 - [Property Listings AI](https://propertylistingsai.com/) - Create stunning property listings in seconds with AI
